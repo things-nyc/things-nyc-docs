@@ -2,8 +2,8 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node COLOR="#000000" CREATED="1464220545378" ID="ID_571309766" MODIFIED="1464321889153" TEXT="The Things Network New York">
 <font NAME="Segoe UI" SIZE="20"/>
-<hook NAME="accessories/plugins/AutomaticLayout.properties"/>
 <hook NAME="accessories/plugins/CreationModificationPlugin_new.properties"/>
+<hook NAME="accessories/plugins/AutomaticLayout.properties"/>
 <node COLOR="#0033ff" CREATED="1464276752687" ID="ID_595739111" MODIFIED="1464321387041" POSITION="right" TEXT="Goals">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="Segoe UI" SIZE="18"/>
@@ -20,7 +20,7 @@
 <node COLOR="#111111" CREATED="1464278400336" ID="ID_852256135" LINK="mailto:terry@thethings.nyc" MODIFIED="1464321387081" TEXT="terry@thethings.nyc"/>
 <node COLOR="#111111" CREATED="1464278414290" ID="ID_1904263526" LINK="https://www.linkedin.com/in/terrillmoore" MODIFIED="1464321387082" TEXT="https://www.linkedin.com/in/terrillmoore"/>
 </node>
-<node COLOR="#990000" CREATED="1464220987963" ID="ID_830314077" MODIFIED="1464321454207" TEXT="CTO">
+<node COLOR="#990000" CREATED="1464220987963" ID="ID_830314077" MODIFIED="1465656699757" TEXT="Technical Lead">
 <font NAME="Segoe UI" SIZE="14"/>
 </node>
 <node COLOR="#990000" CREATED="1464220901333" ID="ID_309145870" MODIFIED="1464321387084" TEXT="Treasurer">
@@ -345,8 +345,8 @@
 </node>
 <node COLOR="#990000" CREATED="1464321957846" ID="ID_1525209814" MODIFIED="1464322089077" TEXT="Assign co-organizer">
 <edge STYLE="bezier" WIDTH="thin"/>
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_1525209814" ENDARROW="Default" ENDINCLINATION="61;0;" ID="Arrow_ID_1251033704" SOURCE="ID_229418215" STARTARROW="None" STARTINCLINATION="61;0;"/>
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1525209814" ENDARROW="Default" ENDINCLINATION="396;0;" ID="Arrow_ID_1182253813" SOURCE="ID_641894619" STARTARROW="None" STARTINCLINATION="396;0;"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1525209814" ENDARROW="Default" ENDINCLINATION="61;0;" ID="Arrow_ID_1251033704" SOURCE="ID_229418215" STARTARROW="None" STARTINCLINATION="61;0;"/>
 <font NAME="Segoe UI" SIZE="14"/>
 </node>
 <node COLOR="#990000" CREATED="1464321966801" ID="ID_229418215" MODIFIED="1464322089079" TEXT="Escrow keys">
